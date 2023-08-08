@@ -2,35 +2,13 @@
 
 Maya project with the objective of making a full automatized robot, with aditional decoration layout, and little animation demo.
 
-<img align="center" width="400" height="400" src="">
+<img align="center" width="400" height="400" src="References_Creation/sons.png">
 
 
 
 ## Instalation
 
 Download the .zip file and the scene edit that you wish.
-
-
-
-### Structure
-
-Project 50n5/\
-├──assets/\
-├──autosave/\
-├──cache/\
-├──clips/\
-├──data/\
-├──images/\
-├──movies/\
-├──renderData/\
-├──sceneAssembly/\
-├──scenes/\
-├──scripts/\
-├──sound/\
-├──sourceimages/\
-├──substancePainter/\
-├──Time Editor/\
-
 
 
 
